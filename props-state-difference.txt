@@ -1,3 +1,0 @@
-While similar, props and state do have some key differences. Props are immutable and function as a components options. They are reliant on their parent's values.
-
-State, however, refers to the default value when a component mounts and mutates through (mostly) user-generated events. States are mutable and can be thought of as snapshots. The component manages its state internally. 
